@@ -36,11 +36,15 @@ I am a results-driven Full-Stack Developer building modern, scalable web applica
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats-six-republic.vercel.app/api?username=Jahidbsl&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Jahid's Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jahidbsl&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-stats-six-republic.vercel.app/api/top-langs/?username=Jahidbsl&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jahidbsl&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Jahid's Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidbsl&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jahidbsl&theme=tokyonight" alt="Summary Cards" />
 </p>
 
 ---
