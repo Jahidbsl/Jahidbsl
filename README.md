@@ -1,7 +1,22 @@
 # # Hi there, I'm Md. Jahid Hasan! 👋
-### 🚀 Professional Full-Stack Developer | MERN & Laravel Specialist
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C7B7&height=200&section=header&text=Md.%20Jahid%20Hasan&fontSize=50&animation=fadeIn" />
+</p>
 
-I am a results-driven Full-Stack Developer building modern, scalable web applications. My expertise lies in bridging the gap between high-performance frontends (**Next.js & React**) and robust, enterprise-grade backends (**Laravel & Node.js**). Currently, I am refining my architecture skills through intensive, AI-powered development tracks at **Programming Hero**.
+# 🚀 Professional Full-Stack Developer | MERN & Next.js Specialist
+
+I am a **results-driven Full-Stack Developer** specializing in building modern, scalable web applications. My expertise lies in bridging the gap between high-performance frontends (**Next.js & React**) and robust, high-concurrency backends (**Node.js & Express.js**). 
+
+With a deep understanding of **NoSQL (MongoDB)** architectures and **RESTful API** design, I focus on creating seamless user experiences and optimized server-side logic. Currently, I am refining my architecture skills through intensive, AI-powered development tracks at **Programming Hero**.
+
+---
+
+### 🛠️ Core Competencies
+- 🌐 **Frontend:** Next.js (SSR/ISR), React, Tailwind CSS, State Management.
+- ⚙️ **Backend:** Node.js, Express.js, Secure JWT Authentication.
+- 🗄️ **Database:** MongoDB Schema Design, Aggregation Pipelines.
+- 🛡️ **Security:** Implementing security headers & defensive coding practices.
+- 🐧 **Environment:** Advanced Linux workflow on **Fedora**.
 
 ---
 
