@@ -10,7 +10,7 @@ I am a results-driven Full-Stack Developer building modern, scalable web applica
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Frontend** | ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) |
-| **Backend & DB** | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) |
+| **Backend & DB** |  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)|
 | **Tools & OS** | ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) |
 
 ---
@@ -27,10 +27,10 @@ I am a results-driven Full-Stack Developer building modern, scalable web applica
 ---
 
 ### 🧠 Expertise & Focus
-- 🏗️ **Laravel Ecosystem:** Building RESTful APIs and robust MVC architectures.
 - ⚡ **Next.js Optimization:** Mastering Server Actions, Middleware, and SEO.
-- 🛡️ **Cybersecurity:** Implementing secure headers and defensive coding practices.
-- 🐧 **Workflow:** Power-user of **Fedora Linux** for streamlined development.
+- 🛠️ **Full-Stack Architecture:** Crafting scalable MERN applications with a focus on reusable component patterns and clean code.
+- 📱 **Responsive UI/UX:** Leveraging **Tailwind CSS** to build mobile-first, high-fidelity interfaces that prioritize user experience.
+- 🐧 **Workflow:** Power-user of **Fedora Linux** for advanced development environment automation.
 
 ---
 
@@ -42,12 +42,18 @@ I am a results-driven Full-Stack Developer building modern, scalable web applica
 
 ---
 
-### 📫 Let's Connect
+### 📫 Connect with Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/jahidhasan-webdev/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md. Jahid Hasan" height="30" width="40" /></a>
-<a href="mailto:jahidhasanbsl46@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Email" height="30" width="40" /></a>
-<a href="https://app.netlify.com/teams/jahidbsl/projects" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" height="25" width="25" /></a>
+<a href="https://www.linkedin.com/in/jahidhasan-webdev/" target="blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Md. Jahid Hasan" height="30" />
+</a>
+<a href="mailto:jahidhasanbsl46@gmail.com" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="30" />
+</a>
+<a href="https://app.netlify.com/teams/jahidbsl/projects" target="blank">
+  <img align="center" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" height="30" />
+</a>
 </p>
 
 ---
