@@ -12,7 +12,7 @@
 
 ### 🚀 Professional Full-Stack Developer | MERN & Next.js Specialist
 
-I am a **results-driven Full-Stack Developer** specializing in building modern, scalable web applications. My expertise lies in bridging the gap between high-performance frontends (**Next.js & React**) and robust, high-concurrency backends (**Node.js & Express.js**). 
+I am a **results-driven Full-Stack Developer** specializing in building modern, scalable web applications. My expertise lies in bridging the gap between high-performance frontends (**Next.js & React**), high-concurrency backends (**Node.js & Express.js**). 
 
 With a deep understanding of **NoSQL (MongoDB)** architectures and **RESTful API** design, I focus on creating seamless user experiences and optimized server-side logic. Currently, I am refining my architecture skills through intensive, AI-powered development tracks at **Programming Hero**.
 
