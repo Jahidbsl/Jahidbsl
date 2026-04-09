@@ -34,17 +34,19 @@ I am a results-driven Full-Stack Developer building modern, scalable web applica
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Insights
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jahidbsl&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true" alt="Jahid's Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jahidbsl&theme=tokyonight" alt="Summary Card" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidbsl&layout=compact&theme=tokyonight&border_radius=10&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jahidbsl&theme=tokyonight" alt="Stats Card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jahidbsl&theme=tokyonight" alt="Commit Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jahidbsl&theme=tokyonight" alt="Summary Cards" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jahidbsl&theme=tokyonight" alt="Repos per Language" />
 </p>
 
 ---
