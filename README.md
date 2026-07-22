@@ -14,6 +14,8 @@ I'm a **Full-Stack Developer** who loves building modern, scalable web applicati
 
 ### 🚀 Featured Projects
 * **[RecipeHub](https://recipehub-roan-sigma.vercel.app)** — A modern full-stack recipe sharing and management platform built with Next.js, Express.js, and MongoDB. *(Live Demo)*
+* **[Pet Blossom](https://b13-a9-pet-adoption-platform.vercel.app)** — A modern beautifull Pet Adopt platform built with Next.js, Express.js, and MongoDB. *(Live Demo)*
+
 
 ---
 
