@@ -23,4 +23,3 @@ I'm a **Full-Stack Developer** who loves building modern, scalable web applicati
 * **LinkedIn:** [jahidhasan-webdev](https://www.linkedin.com/in/jahidhasan-webdev/)
 * **Email:** [jahidhasanbsl46@gmail.com](mailto:jahidhasanbsl46@gmail.com)
 
-> *"Coding is the language of the future, and I’m here to speak it fluently."*
