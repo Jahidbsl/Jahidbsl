@@ -7,6 +7,7 @@ I'm a **Full-Stack Developer** who loves building modern, scalable web applicati
 ### 💻 What I Work With
 * **Frontend:** Next.js, React, Tailwind CSS
 * **Backend & Database:** Node.js, Express.js, MongoDB
+* **Authentication & Security:** Better Auth (Session Management), JWT (JSON Web Tokens), Secure Cookie Handling
 * **Tools & Environment:** Git, Linux (Fedora), Vercel, Netlify
 
 ---
