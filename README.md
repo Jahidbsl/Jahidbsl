@@ -13,9 +13,7 @@ I'm a **Full-Stack Developer** who loves building modern, scalable web applicati
 ---
 
 ### 🚀 Featured Projects
-* **Digitools** — A premium digital tools storefront built with Next.js and Tailwind.
-* **Payooo** — A full-stack mobile banking simulation featuring secure authentication and transaction logic.
-* **Book Vibe** — A modern book discovery platform with dynamic routing and clean API integration.
+* **[RecipeHub](https://recipehub-roan-sigma.vercel.app)** — A modern full-stack recipe sharing and management platform built with Next.js, Express.js, and MongoDB. *(Live Demo)*
 
 ---
 
