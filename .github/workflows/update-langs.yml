@@ -1,0 +1,114 @@
+name: Update Profile Languages
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run Language Stats Script
+        run: |
+          node -e '
+          const https = require("https");
+          const fs = require("fs");
+
+          const username = "Jahidbsl";
+          
+          function fetchRepos() {
+            return new Promise((resolve, reject) => {
+              const options = {
+                hostname: "api.github.com",
+                path: `/users/${username}/repos?per_page=100`,
+                headers: { "User-Agent": "Node.js" }
+              };
+              https.get(options, (res) => {
+                let data = "";
+                res.on("data", chunk => data += chunk);
+                res.on("end", () => resolve(JSON.parse(data)));
+              }).on("error", reject);
+            });
+          }
+
+          function fetchLanguages(langsUrl) {
+            return new Promise((resolve) => {
+              const options = {
+                hostname: "api.github.com",
+                path: langsUrl.replace("https://api.github.com", ""),
+                headers: { "User-Agent": "Node.js" }
+              };
+              https.get(options, (res) => {
+                let data = "";
+                res.on("data", chunk => data += chunk);
+                res.on("end", () => {
+                  try { resolve(JSON.parse(data)); } catch(e) { resolve({}); }
+                });
+              }).on("error", () => resolve({}));
+            });
+          }
+
+          async function generate() {
+            try {
+              const repos = await fetchRepos();
+              if (!Array.isArray(repos)) return;
+              
+              const langBytes = {};
+              let totalBytes = 0;
+
+              for (const repo of repos) {
+                if (repo.fork) continue;
+                const langs = await fetchLanguages(repo.languages_url);
+                for (const [lang, bytes] of Object.entries(langs)) {
+                  langBytes[lang] = (langBytes[lang] || 0) + bytes;
+                  totalBytes += bytes;
+                }
+              }
+
+              const sortedLangs = Object.keys(langBytes)
+                .sort((a, b) => langBytes[b] - langBytes[a])
+                .slice(0, 5);
+
+              let markdown = "";
+              for (const lang of sortedLangs) {
+                const percent = ((langBytes[lang] / totalBytes) * 100).toFixed(1);
+                markdown += `- **${lang}:** ${percent}%\n`;
+              }
+
+              let readme = fs.readFileSync("README.md", "utf8");
+              const startMarker = "<!-- LANGUAGES:START -->";
+              const endMarker = "<!-- LANGUAGES:END -->";
+              
+              const startIndex = readme.indexOf(startMarker) + startMarker.length;
+              const endIndex = readme.indexOf(endMarker);
+
+              if (startIndex !== -1 && endIndex !== -1) {
+                const newContent = "\n" + markdown.trim() + "\n";
+                readme = readme.substring(0, startIndex) + newContent + readme.substring(endIndex);
+                fs.writeFileSync("README.md", readme, "utf8");
+                console.log("README updated successfully!");
+              }
+            } catch (err) {
+              console.error(err);
+            }
+          }
+          generate();
+          '
+
+      - name: Commit and push if changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update GitHub language statistics"
+          file_pattern: README.md
