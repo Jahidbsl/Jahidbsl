@@ -19,14 +19,9 @@ I'm a **Full-Stack Developer** who loves building modern, scalable web applicati
 
 ---
 
-### 📊 GitHub Languages & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jahidbsl&layout=compact&theme=vision-friendly-dark&langs_count=8" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jahidbsl&show_icons=true&theme=vision-friendly-dark" alt="Jahid's GitHub Stats" />
-</p>
+### 📊 My GitHub Languages
+<!-- LANGUAGES:START -->
+<!-- LANGUAGES:END -->
 
 ---
 
