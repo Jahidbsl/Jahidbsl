@@ -79,7 +79,7 @@ jobs:
 
               const sortedLangs = Object.keys(langBytes)
                 .sort((a, b) => langBytes[b] - langBytes[a])
-                .slice(0, 5);
+                .slice(0, 10);
 
               let markdown = "";
               for (const lang of sortedLangs) {
