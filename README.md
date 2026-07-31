@@ -26,8 +26,8 @@ I'm a **Full-Stack Developer** who loves building modern, scalable web applicati
 - **Blade:** 8.9%
 - **PHP:** 8.1%
 - **HTML:** 1.4%
-- **Hack:** 0.1%
 - **Python:** 0.1%
+- **Hack:** 0.1%
 - **SCSS:** 0.0%
 <!-- LANGUAGES:END -->
 
