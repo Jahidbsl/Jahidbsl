@@ -21,14 +21,16 @@ I'm a **Full-Stack Developer** who loves building modern, scalable web applicati
 
 ### 📊 My GitHub Languages
 <!-- LANGUAGES:START -->
-- **JavaScript:** 63.2%
-- **CSS:** 17.8%
-- **Blade:** 8.8%
-- **PHP:** 8.1%
-- **HTML:** 1.6%
-- **Python:** 0.5%
+- **JavaScript:** 62.9%
+- **CSS:** 18.5%
+- **Blade:** 8.5%
+- **PHP:** 7.8%
+- **HTML:** 1.5%
+- **Python:** 0.6%
 - **Hack:** 0.1%
 - **SCSS:** 0.0%
+- **Shell:** 0.0%
+- **Procfile:** 0.0%
 <!-- LANGUAGES:END -->
 
 ---
