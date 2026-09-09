@@ -23,12 +23,12 @@ I'm a **Full-Stack Developer** who loves building modern, scalable web applicati
 <!-- LANGUAGES:START -->
 - **JavaScript:** NaN%
 - **CSS:** NaN%
-- **PHP:** NaN%
 - **Blade:** NaN%
+- **PHP:** NaN%
 - **HTML:** NaN%
 - **Python:** NaN%
-- **Dockerfile:** NaN%
 - **Hack:** NaN%
+- **Dockerfile:** NaN%
 - **SCSS:** NaN%
 - **Shell:** NaN%
 <!-- LANGUAGES:END -->
