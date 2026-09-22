@@ -21,13 +21,13 @@ I'm a **Full-Stack Developer** who loves building modern, scalable web applicati
 ### 📊 My GitHub Languages
 <!-- LANGUAGES:START -->
 - **JavaScript:** NaN%
-- **PHP:** NaN%
-- **Blade:** NaN%
 - **CSS:** NaN%
+- **Blade:** NaN%
+- **PHP:** NaN%
 - **HTML:** NaN%
 - **Python:** NaN%
-- **Dockerfile:** NaN%
 - **Hack:** NaN%
+- **Dockerfile:** NaN%
 - **SCSS:** NaN%
 - **Shell:** NaN%
 <!-- LANGUAGES:END -->
